@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.0",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.1.0/Tachuller.pck",
-    "sha256":  "f6ecf9fe37d88031c2034ce44e21d38fc722150c4087037c57e8b1be7f09412a",
-    "size":  6220420,
-    "notes":  "Première version de Tachüller.",
+    "version":  "0.2.0",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.2.0/Tachuller.pck",
+    "sha256":  "f77f9ea85183a1de883d37105dc3275ee353b1f7c2e469934ed23ead7ccbc6a8",
+    "size":  6226244,
+    "notes":  "- Les rappels de 15 h et du lundi arrivent maintenant en notification Windows (clic dessus = Tachüller s\u0027ouvre sur le rappel), au lieu d\u0027ouvrir l\u0027appli d\u0027un coup.\n- Tachüller se rouvre en grand (ou à la taille où tu l\u0027avais laissé), plus en petit.\n- Checklist : après Entrée, on peut taper l\u0027élément suivant directement, sans recliquer. Pareil pour l\u0027ajout de cartes et de liens.",
     "date":  "2026-11-06"
 }
