@@ -1,8 +1,8 @@
 {
-    "version":  "0.3.0",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.3.0/Tachuller.pck",
-    "sha256":  "8eac8c6af11cb66f7cc997838dda8a14de6752109baa202faaaf6355eaf6129b",
-    "size":  6235668,
-    "notes":  "- Un petit bonjour chaque matin : au premier lancement de la journée (du lundi au vendredi), un message bienveillant s\u0027affiche avec une pluie de pétales de cerisier. 10 messages différents par jour.",
+    "version":  "0.4.0",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.4.0/Tachuller.pck",
+    "sha256":  "95a37e3fb1f448eec9d7ee546e1394ad3c868b26e0d3c6133e1318426f4b330b",
+    "size":  6257908,
+    "notes":  "- Corbeille : une carte supprimée n\u0027est plus perdue, elle reste 30 jours dans menu ⋯ \u003e Corbeille.\n- Ctrl+Z pour annuler la dernière action (Ctrl+Y pour refaire).\n- Une sauvegarde automatique par jour (7 jours), et Exporter / Importer pour changer de PC.\n- Tâches récurrentes : chaque jour ouvré, chaque semaine, toutes les 2 semaines, chaque mois.\n- Rappel à l\u0027heure près sur une tâche, en notification Windows.\n- Le bonjour du matin dit ce qui t\u0027attend aujourd\u0027hui.\n- Dans un post-it, on peut glisser les tâches pour changer leur ordre.\n- Plus sûr : si une mise à jour ne démarre pas, Tachüller revient tout seul à la version d\u0027avant.",
     "date":  "2026-11-06"
 }
