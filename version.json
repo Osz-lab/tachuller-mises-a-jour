@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.2",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.5.2/Tachuller.pck",
-    "sha256":  "0bac2c8c8944a1b5f14232cee26e247814ca063cc7070fdec770d1517391e2c8",
-    "size":  6304424,
-    "notes":  "- On pouvait plus fermer l\u0027appli après un export (la boîte « OK » restait coincée). C\u0027est réglé.",
+    "version":  "0.5.3",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.5.3/Tachuller.pck",
+    "sha256":  "0eed47a5730e15bcf822a86e1ec138cd289120b856a4ab0b827168048cbc63a6",
+    "size":  6309480,
+    "notes":  "- Plein de petits bugs corrigés, et l\u0027appli ne grossit plus en mémoire au fil de la journée.\n- Tes tâches sont mieux protégées : même si le fichier s\u0027abîme, elles reviennent depuis une sauvegarde.\n- Ça rame plus quand tu tapes dans une carte, même avec beaucoup de tâches.\n- La ligne sous le titre n\u0027est plus coupée.",
     "date":  "2026-11-08"
 }
