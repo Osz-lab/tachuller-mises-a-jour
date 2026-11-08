@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.0",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.5.0/Tachuller.pck",
-    "sha256":  "6f54bd58b81d9baccc157603c774fda535626d3f195edadf858fb5b9bda995b1",
-    "size":  6298532,
-    "notes":  "- Ajout rapide : tape « appeler Paul demain 14h #perso », Tachüller comprend la date, l\u0027heure du rappel et l\u0027étiquette (marche aussi dans « + Ajouter une carte »)\n- Ctrl+Alt+T depuis n\u0027importe quel logiciel : une petite fenêtre pour noter une tâche au vol\n- Modèles de cartes : clic droit sur une carte \u003e Enregistrer comme modèle, puis clic droit sur une colonne \u003e Depuis un modèle\n- Archives : les tâches terminées se rangent sans être supprimées (menu ⋯ \u003e Archives), avec une option automatique après 7 jours\n- Statistiques (menu ⋯) : tes tâches terminées par semaine et par étiquette\n- Image de couverture : la première photo jointe s\u0027affiche en haut de la carte",
-    "date":  "2026-11-06"
+    "version":  "0.5.1",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.5.1/Tachuller.pck",
+    "sha256":  "d6f13dbb073a96dddc085daa41d489230a9595967066d7289b12f238617423f1",
+    "size":  6303016,
+    "notes":  "- Un lien « Mises à jour » en bas de l\u0027appli pour voir ce qui a changé depuis le début.",
+    "date":  "2026-11-08"
 }
