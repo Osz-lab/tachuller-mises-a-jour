@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.3",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.5.3/Tachuller.pck",
-    "sha256":  "0eed47a5730e15bcf822a86e1ec138cd289120b856a4ab0b827168048cbc63a6",
-    "size":  6309480,
-    "notes":  "- Plein de petits bugs corrigés, et l\u0027appli ne grossit plus en mémoire au fil de la journée.\n- Tes tâches sont mieux protégées : même si le fichier s\u0027abîme, elles reviennent depuis une sauvegarde.\n- Ça rame plus quand tu tapes dans une carte, même avec beaucoup de tâches.\n- La ligne sous le titre n\u0027est plus coupée.",
+    "version":  "0.8.0",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.8.0/Tachuller.pck",
+    "sha256":  "f913a3f6da9b911938b3a88f9d17dfaf4da8b548b9d197d5a3383cd52723d3f0",
+    "size":  6326680,
+    "notes":  "0.6.0 - Retrouver et ranger\n- La recherche fouille aussi les autres tableaux et les archives.\n- Trier une colonne (⋯ de la colonne).\n- « En cours » a une limite de 5 tâches.\n\n0.7.0 - Le détail des cartes\n- Une date et un rappel pour chaque ligne de checklist.\n- Un historique dans chaque carte, et les tâches repoussées 3 fois le disent.\n\n0.8.0 - Le temps et les fichiers\n- Un chrono et un mode Pomodoro sur chaque carte.\n- Glisse un fichier sur une colonne pour créer une carte avec le fichier joint.",
     "date":  "2026-11-08"
 }
