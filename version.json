@@ -1,8 +1,8 @@
 {
-    "version":  "0.5.1",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.5.1/Tachuller.pck",
-    "sha256":  "d6f13dbb073a96dddc085daa41d489230a9595967066d7289b12f238617423f1",
-    "size":  6303016,
-    "notes":  "- Un lien « Mises à jour » en bas de l\u0027appli pour voir ce qui a changé depuis le début.",
+    "version":  "0.5.2",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.5.2/Tachuller.pck",
+    "sha256":  "0bac2c8c8944a1b5f14232cee26e247814ca063cc7070fdec770d1517391e2c8",
+    "size":  6304424,
+    "notes":  "- On pouvait plus fermer l\u0027appli après un export (la boîte « OK » restait coincée). C\u0027est réglé.",
     "date":  "2026-11-08"
 }
