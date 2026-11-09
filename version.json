@@ -1,8 +1,8 @@
 {
-    "version":  "0.11.2",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.11.2/Tachuller.pck",
-    "sha256":  "0cdfafff9d7ff33ef7f1f8044624365ded280c59fdc2f8c54b9e6fa484b3e598",
-    "size":  6569472,
-    "notes":  "Tachüller a enfin sa propre icône : un petit carnet rose avec une fleur de cerisier, qui sourit.\nElle apparaît dans la barre des tâches et dans les notifications.",
+    "version":  "0.12.0",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.12.0/Tachuller.pck",
+    "sha256":  "53618e09f6b5523aa443691208c70b955e984d805172b89ac1106d4a1018de49",
+    "size":  6804944,
+    "notes":  "Le carnet de l\u0027icône vit maintenant dans l\u0027appli. Il change de tête selon ta journée : content, ravi quand tout est fait, un peu inquiet quand le retard s\u0027accumule, et il fait la sieste le week-end.\nClique dessus en haut de l\u0027écran, il te dit où tu en es.\nLe vendredi après-midi, Tachüller te propose le bilan de la semaine : ce qui est fini, ce qui avance, ce qui est en retard et ce qui arrive. Tu peux le copier ou l\u0027envoyer par mail à ton chef.\nTu le retrouves aussi dans le menu, ou avec Ctrl+K.",
     "date":  "2026-11-09"
 }
