@@ -1,8 +1,8 @@
 {
-    "version":  "0.11.1",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.11.1/Tachuller.pck",
-    "sha256":  "026aa0f3bacad030d73662ad52241c33b567bd20e23291511c51e06df8847221",
-    "size":  6430768,
-    "notes":  "Un PDF de validation plus compact : avec un seul visuel, il se met à gauche du texte et tout tient sur une page.",
+    "version":  "0.11.2",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.11.2/Tachuller.pck",
+    "sha256":  "0cdfafff9d7ff33ef7f1f8044624365ded280c59fdc2f8c54b9e6fa484b3e598",
+    "size":  6569472,
+    "notes":  "Tachüller a enfin sa propre icône : un petit carnet rose avec une fleur de cerisier, qui sourit.\nElle apparaît dans la barre des tâches et dans les notifications.",
     "date":  "2026-11-09"
 }
