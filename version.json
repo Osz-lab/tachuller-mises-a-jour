@@ -1,8 +1,8 @@
 {
-    "version":  "0.8.0",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.8.0/Tachuller.pck",
-    "sha256":  "f913a3f6da9b911938b3a88f9d17dfaf4da8b548b9d197d5a3383cd52723d3f0",
-    "size":  6326680,
-    "notes":  "0.6.0 - Retrouver et ranger\n- La recherche fouille aussi les autres tableaux et les archives.\n- Trier une colonne (⋯ de la colonne).\n- « En cours » a une limite de 5 tâches.\n\n0.7.0 - Le détail des cartes\n- Une date et un rappel pour chaque ligne de checklist.\n- Un historique dans chaque carte, et les tâches repoussées 3 fois le disent.\n\n0.8.0 - Le temps et les fichiers\n- Un chrono et un mode Pomodoro sur chaque carte.\n- Glisse un fichier sur une colonne pour créer une carte avec le fichier joint.",
-    "date":  "2026-11-08"
+    "version":  "0.9.0",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.9.0/Tachuller.pck",
+    "sha256":  "ee960d5d8ca2e1347b7abf987131d7a665186018176a91fb45ef7f4ff8d7eb4d",
+    "size":  6382804,
+    "notes":  "Ctrl+K partout pour tout trouver ; plusieurs cartes d\u0027un coup (Ctrl+clic) ; descriptions mises en forme et liens [[carte]] ; calendrier plus complet (répétitions, étapes, heures, semaines).",
+    "date":  "2026-11-09"
 }
