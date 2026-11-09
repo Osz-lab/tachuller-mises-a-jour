@@ -1,8 +1,8 @@
 {
-    "version":  "0.10.0",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.10.0/Tachuller.pck",
-    "sha256":  "221373b97b69efc56da808e9c11550ddb3083d6292c3d53d04d1799ec6de30ab",
-    "size":  6412620,
-    "notes":  "Pour la com\u0027 : un canal sur chaque carte, le calendrier aux couleurs des réseaux avec les dates importantes de l\u0027année, un compteur de caractères, la grille Instagram, la médiathèque et le bilan des résultats par réseau.",
+    "version":  "0.11.0",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.11.0/Tachuller.pck",
+    "sha256":  "7c6a2ef784d3857423c20899725b1ffb9931f6d9ee8e7b309539589347a3faac",
+    "size":  6430288,
+    "notes":  "Pour faire valider : une carte devient un PDF propre à envoyer à son responsable ou au client, et elle garde la trace des versions et des réponses.",
     "date":  "2026-11-09"
 }
