@@ -1,8 +1,8 @@
 {
-    "version":  "0.11.0",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.11.0/Tachuller.pck",
-    "sha256":  "7c6a2ef784d3857423c20899725b1ffb9931f6d9ee8e7b309539589347a3faac",
-    "size":  6430288,
-    "notes":  "Pour faire valider : une carte devient un PDF propre à envoyer à son responsable ou au client, et elle garde la trace des versions et des réponses.",
+    "version":  "0.11.1",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.11.1/Tachuller.pck",
+    "sha256":  "026aa0f3bacad030d73662ad52241c33b567bd20e23291511c51e06df8847221",
+    "size":  6430768,
+    "notes":  "Un PDF de validation plus compact : avec un seul visuel, il se met à gauche du texte et tout tient sur une page.",
     "date":  "2026-11-09"
 }
