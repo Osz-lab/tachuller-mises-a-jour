@@ -1,8 +1,8 @@
 {
-    "version":  "0.12.1",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.12.1/Tachuller.pck",
-    "sha256":  "10a9aa77de0f0dd1b37072d6b46843c772feb6ee36ac4c09f6cc587b37298b88",
-    "size":  6805056,
-    "notes":  "Une tâche en cours prévue la semaine prochaine n\u0027apparaît plus deux fois dans le bilan.",
-    "date":  "2026-11-09"
+    "version":  "0.12.2",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.12.2/Tachuller.pck",
+    "sha256":  "6464cf62cbb5f1dc9fe4b4ffa57d556431f6ec5fe8a201062554f946627f6b59",
+    "size":  6808828,
+    "notes":  "Épinglé à la barre des tâches, Tachüller garde maintenant son carnet au lieu du logo de Godot, et l\u0027épingle reste reliée à la fenêtre ouverte.\nUne seule fois : désépingle l\u0027ancienne icône, ouvre Tachüller, puis fais un clic droit sur son bouton et choisis Épingler à la barre des tâches.",
+    "date":  "2026-11-10"
 }
