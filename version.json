@@ -1,8 +1,8 @@
 {
-    "version":  "0.12.2",
-    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.12.2/Tachuller.pck",
-    "sha256":  "6464cf62cbb5f1dc9fe4b4ffa57d556431f6ec5fe8a201062554f946627f6b59",
-    "size":  6808828,
-    "notes":  "Épinglé à la barre des tâches, Tachüller garde maintenant son carnet au lieu du logo de Godot, et l\u0027épingle reste reliée à la fenêtre ouverte.\nUne seule fois : désépingle l\u0027ancienne icône, ouvre Tachüller, puis fais un clic droit sur son bouton et choisis Épingler à la barre des tâches.",
+    "version":  "0.13.0",
+    "pck_url":  "https://github.com/Osz-lab/tachuller-mises-a-jour/releases/download/v0.13.0/Tachuller.pck",
+    "sha256":  "1979254dfcfd44c49724ecfa0ffb3f11db02a94146fda411980ef0e214090587",
+    "size":  6843792,
+    "notes":  "Nouveau : les chiffres de Facebook et d\u0027Instagram dans Tachüller. Exporte-les depuis Meta Business Suite, puis glisse le dossier dans l\u0027appli (menu, Stats des réseaux).\nTu vois le mois, l\u0027écart avec le mois de ton choix (par exemple le même mois l\u0027année d\u0027avant), les courbes jour par jour et les temps forts, avec ce que tu avais publié ces jours-là.\nLe rapport du mois se relit avant d\u0027être copié, prêt à coller dans un mail.\nLe calendrier du mois ne déborde plus de l\u0027écran quand on agrandit l\u0027affichage.",
     "date":  "2026-11-10"
 }
